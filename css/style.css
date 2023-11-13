@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+div,
+li,
+ul,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+#container-sec .row {
+  row-gap: 10px;
+  column-gap: 8px;
+}
+
+.breakpoints .row {
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+.grid-sec .row {
+  row-gap: 10px;
+}
